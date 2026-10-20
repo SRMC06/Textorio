@@ -1,1 +1,1 @@
-# Textorio
+# Textorio will be about text-based version of factorio, currently with a much smaller scope. Stay tuned!
